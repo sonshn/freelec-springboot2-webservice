@@ -1,6 +1,6 @@
 package com.venti.springboot.web;
 
-import com.venti.springboot.service.posts.PostsService;
+import com.venti.springboot.service.PostsService;
 import com.venti.springboot.web.dto.PostsResponseDto;
 import com.venti.springboot.web.dto.PostsSaveRequestDto;
 import com.venti.springboot.web.dto.PostsUpdateRequestDto;

@@ -1,4 +1,4 @@
-package com.venti.springboot.web.domain.posts;
+package com.venti.springboot.domain.posts;
 
 import com.venti.springboot.domain.posts.Posts;
 import com.venti.springboot.domain.posts.PostsRepository;
