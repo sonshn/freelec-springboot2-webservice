@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6d1afb3-5477-46e8-b4c4-bd7fbb42b0f5" name="변경" comment="변경">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/post-update.mustache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/venti/springboot/web/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/venti/springboot/web/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/venti/springboot/service/PostsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/venti/springboot/service/PostsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/venti/springboot/web/PostsApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/venti/springboot/web/PostsApiController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/app/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/app/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.mustache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/posts-update.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/posts-update.mustache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,11 +234,6 @@
           <url>file://$PROJECT_DIR$/src/test/java/com/venti/springboot/web/PostsApiControllerTest.java</url>
           <line>25</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/venti/springboot/Application.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/com/venti/springboot/web/HelloControllerTest.java</url>
